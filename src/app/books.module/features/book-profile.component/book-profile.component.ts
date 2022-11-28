@@ -2,8 +2,8 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'book-profile',
-  templateUrl: './books-profile.component.html',
-  styleUrls: ['./books-profile.component.scss']
+  templateUrl: './book-profile.component.html',
+  styleUrls: ['./book-profile.component.scss']
 })
 export class BookProfileComponent {
   title = 'library';
